@@ -1,1 +1,2 @@
-# JavaScript_Projects
+### JavaScript_Projects
+Simple JavaScript projects 
